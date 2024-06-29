@@ -1,1 +1,1 @@
-## Corrective Retrieval Augmented Generation (Langchain, Mistral)
+## Corrective Retrieval Augmented Generation (LangGraph, Mistral)
