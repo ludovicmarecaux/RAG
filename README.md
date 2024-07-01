@@ -1,1 +1,1 @@
-## Corrective Retrieval Augmented Generation (LangGraph, Mistral)
+## Corrective Retrieval Augmented Generation (LangGraph, embedding: all-MiniLM-L6-v2, llm: Mistral:last instruct) 
