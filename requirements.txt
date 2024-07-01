@@ -1,0 +1,15 @@
+langchain_community
+tiktoken
+langchainhub
+scikit-learn
+langchain
+langgraph
+tavily-python
+nomic[local]
+langchain-nomic
+langchain_mistralai
+BeautifulSoup4
+python-dotenv
+InstructorEmbedding 
+sentence_Transformers
+chromadb
